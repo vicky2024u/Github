@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png)
+![Profile Banner](https://raw.githubusercontent.com/avijayalakshmi8277/avijayalakshmi8277/main/banner.png)
 
 # Hi, I'm A Vijaya Lakshmi 👋
 
