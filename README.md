@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/avijayalakshmi8277/avijayalakshmi8277/main/banner.png)
+![Profile Banner](https://raw.githubusercontent.com/vicky2024u/vicky2024u/main/banner.png)
 
 # Hi, I'm A Vijaya Lakshmi 👋
 
@@ -23,4 +23,4 @@ Java • Spring Boot • Hibernate • SQL • HTML • CSS • JavaScript • R
 
 ### 🤝 Connect with Me
 
-[GitHub](https://github.com/avijayalakshmi8277)
+[GitHub](https://github.com/vicky2024u)
