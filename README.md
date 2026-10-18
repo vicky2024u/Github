@@ -1,6 +1,6 @@
 ![Profile Banner](https://raw.githubusercontent.com/vicky2024u/Github/main/banner.png)
 
-# Hi, I'm A Vijaya Lakshmi 
+# Hi,I'm A Vijaya Lakshmi 
 
 ### Java Full Stack Developer
 
@@ -25,3 +25,23 @@ Java • Spring Boot • Hibernate • SQL • HTML • CSS • JavaScript • R
 
 [GitHub](https://github.com/vicky2024u)
 
+Name: A VIJAYA LAKSHMI
+Role: Full Stack Developer
+Experience: 1.8+ Years
+Company: Tata Consultancy Services
+Location: Bangalore, India
+
+Currently Working With:
+  - Java
+  - Spring Boot
+  - React.js
+  - Microservices
+  - MySQL
+  - MongoDB
+  - Azure
+  - Docker
+
+Learning:
+  - System Design
+  - Cloud Architecture
+  - AI Integrations
