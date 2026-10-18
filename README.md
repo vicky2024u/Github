@@ -1,6 +1,6 @@
 ![Profile Banner](https://raw.githubusercontent.com/vicky2024u/Github/main/banner.png)
 
-# Hi, I'm A Vijaya Lakshmi 👋
+# Hi, I'm A Vijaya Lakshmi 
 
 ### Java Full Stack Developer
 
